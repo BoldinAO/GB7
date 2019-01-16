@@ -1,0 +1,22 @@
+C:\Users\zaaza\OneDrive\Рабочий стол\Lesson7\Lesson7\bin\Debug\Lesson7.exe.config
+C:\Users\zaaza\OneDrive\Рабочий стол\Lesson7\Lesson7\bin\Debug\Lesson7.exe
+C:\Users\zaaza\OneDrive\Рабочий стол\Lesson7\Lesson7\bin\Debug\Lesson7.pdb
+C:\Users\zaaza\OneDrive\Рабочий стол\Lesson7\Lesson7\obj\Debug\Lesson7.csprojAssemblyReference.cache
+C:\Users\zaaza\OneDrive\Рабочий стол\Lesson7\Lesson7\obj\Debug\Lesson7.Properties.Resources.resources
+C:\Users\zaaza\OneDrive\Рабочий стол\Lesson7\Lesson7\obj\Debug\Lesson7.csproj.GenerateResource.cache
+C:\Users\zaaza\OneDrive\Рабочий стол\Lesson7\Lesson7\obj\Debug\Lesson7.csproj.CoreCompileInputs.cache
+C:\Users\zaaza\OneDrive\Рабочий стол\Lesson7\Lesson7\obj\Debug\Lesson7.exe
+C:\Users\zaaza\OneDrive\Рабочий стол\Lesson7\Lesson7\obj\Debug\Lesson7.pdb
+C:\Users\zaaza\OneDrive\Рабочий стол\Lesson7\Lesson7\obj\Debug\Lesson7.Form1.resources
+C:\Users\zaaza\OneDrive\Рабочий стол\Lesson7\Lesson7\obj\Debug\Lesson7.FormAbout.resources
+C:\Users\Energy\Desktop\gb7\Lesson7\bin\Debug\Lesson7.exe.config
+C:\Users\Energy\Desktop\gb7\Lesson7\bin\Debug\Lesson7.exe
+C:\Users\Energy\Desktop\gb7\Lesson7\bin\Debug\Lesson7.pdb
+C:\Users\Energy\Desktop\gb7\Lesson7\obj\Debug\Lesson7.csprojAssemblyReference.cache
+C:\Users\Energy\Desktop\gb7\Lesson7\obj\Debug\Lesson7.Form1.resources
+C:\Users\Energy\Desktop\gb7\Lesson7\obj\Debug\Lesson7.FormAbout.resources
+C:\Users\Energy\Desktop\gb7\Lesson7\obj\Debug\Lesson7.Properties.Resources.resources
+C:\Users\Energy\Desktop\gb7\Lesson7\obj\Debug\Lesson7.csproj.GenerateResource.cache
+C:\Users\Energy\Desktop\gb7\Lesson7\obj\Debug\Lesson7.csproj.CoreCompileInputs.cache
+C:\Users\Energy\Desktop\gb7\Lesson7\obj\Debug\Lesson7.exe
+C:\Users\Energy\Desktop\gb7\Lesson7\obj\Debug\Lesson7.pdb

@@ -1,0 +1,10 @@
+C:\Users\Energy\Desktop\gb7\HW2\bin\Debug\HW2.exe.config
+C:\Users\Energy\Desktop\gb7\HW2\bin\Debug\HW2.exe
+C:\Users\Energy\Desktop\gb7\HW2\bin\Debug\HW2.pdb
+C:\Users\Energy\Desktop\gb7\HW2\obj\Debug\HW2.csprojAssemblyReference.cache
+C:\Users\Energy\Desktop\gb7\HW2\obj\Debug\HW2.Form1.resources
+C:\Users\Energy\Desktop\gb7\HW2\obj\Debug\HW2.Properties.Resources.resources
+C:\Users\Energy\Desktop\gb7\HW2\obj\Debug\HW2.csproj.GenerateResource.cache
+C:\Users\Energy\Desktop\gb7\HW2\obj\Debug\HW2.csproj.CoreCompileInputs.cache
+C:\Users\Energy\Desktop\gb7\HW2\obj\Debug\HW2.exe
+C:\Users\Energy\Desktop\gb7\HW2\obj\Debug\HW2.pdb
